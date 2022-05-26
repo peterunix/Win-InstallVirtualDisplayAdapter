@@ -1,0 +1,8 @@
+* Details
+Installs a virtual display adapter for windows.
+This works best when using software that relies on their being a monitor attached, but the computer is running headless.
+
+* Usage
+#+begin_src shell
+./script.ps1
+#+end_src
